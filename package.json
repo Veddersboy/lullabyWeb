@@ -1,7 +1,7 @@
 {
   "name": "lullabywebsite",
   "version": "0.1.0",
-  "homepage": "https://veddersboy.github.io/lullabyWeb/",
+  "homepage": "https://alullaby.com/",
   "private": true,
   "dependencies": {
     "cra-template": "1.2.0",
